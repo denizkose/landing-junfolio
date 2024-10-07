@@ -1,3 +1,11 @@
+import TeamInfo from "../components/team/TeamInfo";
+import TeamList from "../components/team/TeamList";
+
 export default function Page() {
-    return <h1>Hello, Team Page!</h1>
+    return (
+    <div>
+        <TeamInfo/>
+        <TeamList/>
+    </div>
+    )
 }

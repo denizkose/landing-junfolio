@@ -1,3 +1,3 @@
 export default function StagesScreen() {
-    return ''
+    return 'Stages Screen'
 }

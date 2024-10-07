@@ -1,3 +1,3 @@
 export default function ForJuniorScreen() {
-    return ''
+    return 'For Junior Screen'
 }

@@ -1,3 +1,3 @@
 export default function PortfolioInfo() {
-    return ''
+    return 'PortfolioInfo'
 }

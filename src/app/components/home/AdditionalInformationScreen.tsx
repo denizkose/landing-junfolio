@@ -1,3 +1,3 @@
 export default function AdditionalInformationScreen() {
-    return ''
+    return 'Additional Information Screen'
 }

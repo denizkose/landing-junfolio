@@ -1,3 +1,3 @@
 export default function SpecialistsScreen() {
-    return ''
+    return 'Specialists Screen'
 }

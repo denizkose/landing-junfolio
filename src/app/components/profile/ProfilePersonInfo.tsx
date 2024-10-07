@@ -1,3 +1,3 @@
 export default function ProfilePersonInfo() {
-    return ''
+    return 'ProfilePersonInfo'
 }

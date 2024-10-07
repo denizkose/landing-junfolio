@@ -1,3 +1,3 @@
 export default function ForClientScreen() {
-    return ''
+    return 'For Client Screen'
 }

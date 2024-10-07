@@ -1,3 +1,11 @@
+import PortfolioInfo from "../components/portfolio/PortfolioInfo";
+import PortfolioProjects from "../components/portfolio/PortfolioProjects";
+
 export default function Page() {
-    return <h1>Hello, Portfolio Page!</h1>
+    return (
+    <div>
+        <PortfolioInfo/>
+        <PortfolioProjects/>
+    </div>
+    )
 }

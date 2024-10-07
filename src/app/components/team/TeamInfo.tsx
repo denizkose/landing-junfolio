@@ -1,3 +1,3 @@
 export default function TeamInfo() {
-    return ''
+    return 'TeamInfo'
 }
